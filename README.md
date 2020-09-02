@@ -1,12 +1,18 @@
 ### Hi, I'm Dillon 👋
 
-👨‍🎨 I craft quality React frontends and have a passion for all things Javascript. 🌱 I’m currently learning more about the back-end, specifically GraphQL, express and Apollo. 
-
-I am currently working with some awesome people at Synapse Studios. We build custom app used and loved by millions. There, I get to utilize my diverse skillset working on next level products. 🔭 I’m currently working on a mobile workout app for Seniors called Silver Sneakers, built in React Native ✨.
+👨‍🎨 I craft quality React frontends and have a passion for all things Javascript. 
 
 <br />
 
-Fun fact: I have a Golden-Doodle named Bowie ⚡️ My hobbies include Golfing, reading, writing, and playing guitar 🎸
+🌱 I stay inspired by always learning something new. I’m currently learning more about the back-end, specifically GraphQL, express and Apollo. 
+
+<br />
+
+I am currently working with some awesome people at Synapse Studios. We build custom apps used and loved by millions. There, I get to utilize my diverse skillset working on next level products. 🔭 I’m currently working on a mobile workout app for Seniors called Silver Sneakers, built in React Native ✨.
+
+<br />
+
+Fun fact: I have a Golden-Doodle named Bowie⚡️. My hobbies include Golfing, reading, writing, and playing guitar 🎸
 
 <!--
 **dilmodev/dilmodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
