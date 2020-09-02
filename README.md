@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=dilmodev)
+
 ### Hi, I'm Dillon 👋
 
 👨‍🎨 I craft quality React frontends and have a passion for all things Javascript. 
@@ -13,6 +15,15 @@ I am currently working with some awesome people at Synapse Studios. We build cus
 <br />
 
 Fun fact: I have a Golden-Doodle named Bowie⚡️. My hobbies include Golfing, reading, writing, and playing guitar 🎸
+
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilmodev" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmodev" />
+</a>
 
 <!--
 **dilmodev/dilmodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
