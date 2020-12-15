@@ -10,7 +10,7 @@
 
 <br />
 
-I am currently working with some awesome people at Synapse Studios. We build custom apps used and loved by millions. There, I get to utilize my diverse skillset working on next level products. 🔭 I’m currently working on a mobile workout app for Seniors called Silver Sneakers, built in React Native ✨.
+Currently collaborating with clients and co-workers to build solid products at <a href="https://formidable.com/">Formidable</a>. We build custom apps used and loved by millions. There, I get to utilize my diverse skillset working on next level products. 🔭 I’m currently working on a mobile workout app for Seniors called Silver Sneakers, built in React Native ✨.
 
 <br />
 
