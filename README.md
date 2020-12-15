@@ -14,7 +14,7 @@ Currently collaborating with clients and co-workers to build solid products at <
 
 <br />
 
-Fun fact: I have a Golden-Doodle named Bowie⚡️. My hobbies include Golfing, reading, writing, and playing guitar 🎸
+Fun fact: I have 2 Golden-Doodles named Bowie⚡️ and Phoebe. My hobbies include Golfing, reading, writing, and playing guitar 🎸
 
 <br />
 
