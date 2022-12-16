@@ -10,7 +10,7 @@
 
 <br />
 
-Currently collaborating with clients and co-workers to build solid products at <a href="https://formidable.com/">Formidable</a>. 
+Most recently, collaborating with clients and co-workers to build solid products at <a href="https://formidable.com/">Formidable</a>. 
 
 <br />
 
