@@ -6,7 +6,7 @@
 
 <br />
 
-🌱 I stay inspired by always learning something new. I’m currently learning more about the back-end, specifically GraphQL, express and Apollo. 
+🌱 I stay inspired by always learning something new. I currently have a <a href="https://github.com/dillonemorris/mybooks">side project</a> in development where I'm exploring the new <a href="https://nextjs.org/blog/next-13">Next 13</a> release. 
 
 <br />
 
@@ -14,7 +14,7 @@ Most recently, collaborating with clients and co-workers to build solid products
 
 <br />
 
-Fun fact: I have 2 Golden-Doodles named Bowie⚡️ and Phoebe. My hobbies include Golfing, reading, writing, and playing guitar 🎸
+Fun fact: I have 2 Golden-Doodles named Bowie⚡️ and Phoebe. My hobbies include basketball, reading, writing, and playing guitar 🎸
 
 <br />
 
