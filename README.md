@@ -19,14 +19,14 @@ Fun fact: I have 2 Golden-Doodles named Bowie⚡️ and Phoebe. My hobbies inclu
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilmodev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dillonemorris" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilmodev" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillonemorris" />
 </a>
 
 <!--
-**dilmodev/dilmodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dillonemorris/dillonemorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
