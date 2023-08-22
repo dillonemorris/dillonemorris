@@ -10,11 +10,11 @@
 
 <br />
 
-Most recently, collaborating with clients and co-workers to build solid products at <a href="https://formidable.com/">Formidable</a>. 
+I am currently a UI Engineer @ American Express on their Enterprise Identity team (oauth).
 
 <br />
 
-Fun fact: I have 2 Golden-Doodles named Bowie⚡️ and Phoebe. My hobbies include basketball, reading, writing, and playing guitar 🎸
+I have 2 Golden-Doodles named Bowie⚡️ and Phoebe. My hobbies include basketball, reading, writing, and playing guitar 🎸
 
 <br />
 
