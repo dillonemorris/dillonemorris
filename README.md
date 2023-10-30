@@ -1,8 +1,8 @@
-![](https://komarev.com/ghpvc/?username=dilmodev)
-
 ### Hi, I'm Dillon 👋
 
 👨‍🎨 I craft quality React frontends and have a passion for all things Javascript. 
+
+<a href="https://dillonemorris.com/">dillonemorris.com/</a>
 
 <br />
 
