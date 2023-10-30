@@ -2,11 +2,11 @@
 
 👨‍🎨 I craft quality React frontends and have a passion for all things Javascript. 
 
-<a href="https://dillonemorris.com/">dillonemorris.com/</a>
+<a href="https://dillonemorris.com/">dillonemorris.com</a>
 
 <br />
 
-🌱 I stay inspired by always learning something new. I currently have a <a href="https://github.com/dillonemorris/mybooks">side project</a> in development where I'm exploring the new <a href="https://nextjs.org/blog/next-13">Next 13</a> release. 
+🌱 I stay inspired by always learning something new. I currently have a Full Stack <a href="https://github.com/dillonemorris/inspaverse">side project</a> in development, built using Next 13. 
 
 <br />
 
