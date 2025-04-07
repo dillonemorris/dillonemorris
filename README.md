@@ -4,7 +4,7 @@
 
 <a href="https://dillonemorris.com/">dillonemorris.com</a>
 
-I am currently a UI Engineer @ American Express on their Enterprise Identity team (oauth).
+I am currently a Senior Software Engineer @ SmartRent.
 
 <!--
 **dillonemorris/dillonemorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
